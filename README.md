@@ -42,11 +42,11 @@ git push -u origin main
 ```
 
 ### My knowledge of Git and GitHub
-.html to .md [converter](https://t.co/uRW3Od73uE)!
+- .html to .md [converter](https://t.co/uRW3Od73uE)!
 ```
 git help
 ```
-for all help
+- for all help
 `git revert <commit ref>` add a new commit which will undo the changes made in the given commit ref
 `git reset <commit ref>` reset the whole git repo back to the state it was in as per commit ref.
 `git branch <branch name>` branch make🤷
@@ -54,14 +54,14 @@ for all help
 
 ## Clone a repo from GitHub
 
-Untracked file(initially)
-To put in the staging area.
-`git init` for initialling the git
-`git add --a`  or `git add .` to put in the staging area.
-`git status` to check the status
-`git commit -m "first commit" ` // to commit with messages.
-`git push` to sync with GitHub
-`git clone [link] ` clone the repo from GitHub
+- Untracked file(initially)
+- To put in the staging area.
+- `git init` for initialling the git
+- `git add --a`  or `git add .` to put in the staging area.
+- `git status` to check the status
+- `git commit -m "first commit" ` // to commit with messages.
+- `git push` to sync with GitHub
+- `git clone [link] ` clone the repo from GitHub
 
 
 ### Add notes from the w3schools and others.
