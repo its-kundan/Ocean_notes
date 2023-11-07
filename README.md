@@ -15,13 +15,13 @@
 
 ### GitHub Good Commit message messages.
 
-feat - a new feature
-fix - a bug fix
-docs - changes in documentation
-style - everything related to styling
-refractor - code changes
-test - everything related to testing
-chore - updating build task, package manager configs, etc.
+- feat - a new feature
+- fix - a bug fix
+- docs - changes in documentation
+- style - everything related to styling
+- refractor - code changes
+- test - everything related to testing
+- chore - updating build task, package manager configs, etc.
 
 
 
